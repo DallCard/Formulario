@@ -22,7 +22,7 @@
     <h1 class="text-center p-3">  FORMULARIO DE PERSONAS </h1>
     <?php
       include "conexion.php";
-     // include "../controlador/eliminar_persona.php";
+      include "../controlador/eliminar_persona.php";
     ?>
     <div class="container-fluid row">
         <form class="col-4 p-3" method="POST"> 
